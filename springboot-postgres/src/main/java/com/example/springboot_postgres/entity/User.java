@@ -12,8 +12,7 @@ public class User {
 
     private String name;
     private String email;
-
-    // Constructors, getters, and setters
+// Constructors, getters, and setters
 
     public User() {}
 
